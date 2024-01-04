@@ -68,43 +68,14 @@ leche Milka 270 g.': '2,10 €'}, 'porcentaje': 0.7931034482758621}
 {'consum': {'-': '-'}, 'carrefour': {'Galletas con chocolate Choco Biscuits Milka 150 
 g.': '1,91 €'}}
 {'consum': {'Chocolate Triple 90 Gr': '1,29 €'}, 'carrefour': {'-': '-'}
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
 
 
-## Appendix
 
-Any additional information goes here
+#Author
+
+-[@sagader](https://github.com/maryrrr)
 
 
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-@sagader
 ## Installation
 
 download python
